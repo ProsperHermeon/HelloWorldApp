@@ -21,4 +21,4 @@ The programming language used is Python 3. No external libraries were required â
 * [Python Official Documentation](https://docs.python.org/3/)
 * [Markdown Language Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub Docs - Creating a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
-* [YouTube - Uploading Videos](https://support.google.com/youtube/answer/57407)
+* [Loom - Recording and Sharing Videos](https://support.loom.com/hc/en-us/articles/360002161358-How-to-Record-Your-First-Video-with-Loom)
