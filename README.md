@@ -8,7 +8,7 @@ This software is a Python program that displays a styled greeting to the termina
 
 My purpose for creating this software was to verify that my development tools are properly configured and to familiarize myself with the submission process for future modules.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/9afefa8b6aa943709adb1933baf2df7b)
 
 # Development Environment
 
